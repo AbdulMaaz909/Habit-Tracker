@@ -7,7 +7,7 @@
     "dev": "next dev",
     "start": "next start",
     "lint": "next lint",
-    "build": "react-scripts build"
+    "build": "next build"
   },
   "dependencies": {
     "framer-motion": "^12.9.4",
